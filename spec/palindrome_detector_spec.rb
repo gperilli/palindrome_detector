@@ -1,4 +1,5 @@
-# spec/example_spec.rb
+# spec/palindrome_detector_spec.rb
+require 'bundler/setup'
 require_relative '../palindrome_detector'
 
 describe "palindrome_detector" do
