@@ -1,6 +1,6 @@
 # palindrome_detector
 
-This is a a simple ruby coding exercise with rspec accompanying rspec tests.
+This is a a simple ruby coding exercise with accompanying rspec tests.
 
 ## Running the program
 
