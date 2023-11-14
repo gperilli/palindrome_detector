@@ -4,6 +4,8 @@ This is a a simple ruby coding exercise with accompanying rspec tests.
 
 ## Running the program
 
+After downloading the project files, use `bundle install` from the terminal to install the gems. 
+
 Run the ruby method directly from the terminal like this:
 ```
 ruby palindrome_detector.rb oxo
@@ -11,7 +13,7 @@ ruby palindrome_detector.rb oxo
 
 Run the rspec tests like this:
 ```
-rspec spec/palindrome_detector_spec.rb
+bundle exec rspec spec/example_spec.rb
 ```
 
 
