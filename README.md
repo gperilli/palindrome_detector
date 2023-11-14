@@ -9,7 +9,7 @@ Run the ruby method directly from the terminal like this:
 ruby palindrome_detector.rb oxo
 ```
 
-Ru bthe rspec tests like this:
+Run the rspec tests like this:
 ```
 rspec spec/palindrome_detector_spec.rb
 ```
