@@ -2,6 +2,19 @@
 
 This is a a simple ruby coding exercise with accompanying rspec tests.
 
+
+
+## Getting the project files
+
+Either do a direct download using the download option from the code button dropdown near the top of this page, or use a git clone command:
+```
+git clone git@github.com:gperilli/fundme.git
+```
+<br>
+
+For more information on getting git (version control system) on your local machine, see [this](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
+
+
 ## Running the program
 
 After downloading the project files, use `bundle install` from the terminal to install the gems. 
