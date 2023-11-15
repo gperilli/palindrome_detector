@@ -32,7 +32,7 @@ bundle exec rspec spec/example_spec.rb
 
 ### Setting up a Ruby development environment: General Outline
 
-This is a ruby on rails web app, so first set up a ruby development environment on your local machine. If you are using Windows, this may involve setting up [WSL](https://learn.microsoft.com/en-us/windows/wsl/install), Windows subsystem for Linux, [rbenv](https://github.com/rbenv/rbenv), a ruby environment manager, and Ruby. 
+This is a ruby program, so first set up a ruby development environment on your local machine. If you are using Windows, this may involve setting up [WSL](https://learn.microsoft.com/en-us/windows/wsl/install), Windows subsystem for Linux, [rbenv](https://github.com/rbenv/rbenv), a ruby environment manager, and Ruby. 
 
 ### More Details on Setting Up Ruby + Git + Github Cli on a Linux Machine
 
