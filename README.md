@@ -6,7 +6,7 @@ This is a a simple ruby coding exercise with accompanying rspec tests.
 
 ## Getting the project files
 
-Either do a direct download using the download option from the code button dropdown near the top of this page, or use a git clone command:
+Either do a direct download using the download option from the code button dropdown near the top of this Github page, or use a git clone command:
 ```
 git clone git@github.com:gperilli/fundme.git
 ```
